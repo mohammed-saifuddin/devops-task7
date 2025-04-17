@@ -1,4 +1,7 @@
 Devops task7
+
+
+
 Monitor System Resources Using Netdata on Windows
 
 
